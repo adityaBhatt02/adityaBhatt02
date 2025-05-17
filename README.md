@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 
 👋 Hey there, I'm Aditya Bhatt  
@@ -34,7 +33,7 @@ Git • GitHub • VS Code • Figma • Netlify • Remix
 
 ---
 
-### 📚 **Currently Learning:**  
+### 📚 **Currently Learning**  
 🔹 Advanced MERN Stack Development  
 🔹 Secure Smart Contract Development  
 🔹 Building Full-Stack Blockchain Apps  
