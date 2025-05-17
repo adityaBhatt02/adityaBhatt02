@@ -30,11 +30,6 @@ Solidity • Ethereum • Smart Contracts • Web3.js • Metamask Integration
 Git • GitHub • VS Code • Figma • Netlify • Remix  
 
 </div>
-
-<div style="flex: 1; min-width: 200px;">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="20px" style="max-width: 300px; border-radius: 10px;" alt="coding gif"/>
-</div>
-
 </div>
 
 ---
