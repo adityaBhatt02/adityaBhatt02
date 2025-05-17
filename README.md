@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="400" />
 
 # 💫 About Me:
 
@@ -33,7 +32,7 @@ Git • GitHub • VS Code • Figma • Netlify • Remix
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="100%" style="max-width: 300px; border-radius: 10px;" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="20px" style="max-width: 300px; border-radius: 10px;" alt="coding gif"/>
 </div>
 
 </div>
