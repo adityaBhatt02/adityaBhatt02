@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 👋 Hey there, I'm Aditya Bhatt  
-🚀 Full-Stack Developer | Java Enthusiast | Blockchain Learner  
+🚀 Full-Stack Web Developer | Java Enthusiast | Blockchain Learner  
 
 🧠 **About Me**  
 I'm a passionate developer with a problem-solving mindset and a focus on building full-stack web solutions that address real-world challenges. With a solid foundation in Java, Data Structures & Algorithms, and Web Development, I thrive in collaborative environments where innovation meets execution.
