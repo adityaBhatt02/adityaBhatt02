@@ -34,14 +34,14 @@ Git • GitHub • VS Code • Figma • Netlify • Remix
 
 ---
 
-📚 **Currently Learning:**  
+### 📚 **Currently Learning:**  
 🔹 Advanced MERN Stack Development  
 🔹 Secure Smart Contract Development  
 🔹 Building Full-Stack Blockchain Apps  
 
 ---
 
-⚡ **What I’m Passionate About**  
+### ⚡ **What I’m Passionate About**  
 🔹 Writing clean, efficient Java code  
 🔹 Building full-stack web apps with real-world use cases  
 🔹 Exploring decentralized technologies  
@@ -50,7 +50,7 @@ Git • GitHub • VS Code • Figma • Netlify • Remix
 
 ---
 
-🤝 **Open to Collaborations**  
+### 🤝 **Open to Collaborations**  
 I’m always open to working on unique, impactful projects—especially those involving:  
 
 🔗 Blockchain & Web3  
