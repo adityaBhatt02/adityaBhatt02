@@ -4,9 +4,10 @@
 🚀 Full-Stack Web Developer | Java Enthusiast | Blockchain Learner  
 
 🧠 **About Me**  
-I'm a passionate developer with a problem-solving mindset and a focus on building full-stack web solutions that address real-world challenges. With a solid foundation in Java, Data Structures & Algorithms, and Web Development, I thrive in collaborative environments where innovation meets execution.
+I'm a passionate developer with a problem-solving mindset and a focus on building full-stack web solutions that address real-world challenges.
+My core strength lies in Java Full Stack Development, specializing in Spring & Spring Boot, combined with frontend expertise using React.js and backend knowledge in Node.js.
 
-Currently, I'm exploring the MERN stack to strengthen my full-stack development skills, and diving into Blockchain technologies to build decentralized, secure, and transparent web applications.
+Currently, I'm exploring Java Full Stack to strengthen my development skills, and diving into Blockchain technologies to build decentralized, secure, and transparent web applications.
 
 ---
 
@@ -20,31 +21,23 @@ Currently, I'm exploring the MERN stack to strengthen my full-stack development 
 Java • JavaScript • Python • HTML • CSS • Solidity  
 
 **🔹Web Development:**  
-React.js • Node.js • Express.js • MongoDB • REST APIs • EJS  
+React.js • Spring Boot • Node.js • Express.js • MongoDB • REST APIs • EJS
 
 **🔹Blockchain:**  
 Solidity • Ethereum • Smart Contracts • Web3.js • Metamask Integration  
 
 **🔹Tools & Platforms:**  
-Git • GitHub • VS Code • Figma • Netlify • Remix  
+Git • GitHub • Postman • VS Code • Netlify • Remix  
 
 </div>
 </div>
-
----
-
-### 📚 **Currently Learning**  
-🔹 Advanced MERN Stack Development  
-🔹 Secure Smart Contract Development  
-🔹 Building Full-Stack Blockchain Apps  
 
 ---
 
 ### ⚡ **What I’m Passionate About**  
 🔹 Writing clean, efficient Java code  
 🔹 Building full-stack web apps with real-world use cases  
-🔹 Exploring decentralized technologies  
-🔹 Participating in Hackathons and collaborative sprints  
+🔹 Exploring decentralized technologies   
 🔹 Creating scalable and community-oriented solutions  
 
 ---
@@ -53,11 +46,9 @@ Git • GitHub • VS Code • Figma • Netlify • Remix
 I’m always open to working on unique, impactful projects—especially those involving:  
 
 🔗 Blockchain & Web3  
-🌐 Full-Stack MERN Applications  
-🧩 Java-based Web Backends  
-
-Let’s build something meaningful together!
-
+🔗 Spring Boot + React.js Stack
+🌐 Java-based Web Backends  
+🧩 Blockchain & Smart Contracts 
 
 
 ## 🌐 Socials:
