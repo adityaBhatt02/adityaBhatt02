@@ -1,54 +1,19 @@
-# About Me:
+## 🛠️ Tech Stack
 
-Hey there, I'm Aditya Bhatt  
-Full-Stack Web Developer | Java Enthusiast | Blockchain Learner  
+### Languages
+Go • Java • Python • SQL
 
-🧠 **About Me**  
-I'm a passionate developer with a problem-solving mindset and a focus on building full-stack web solutions that address real-world challenges.
-My core strength lies in Java Full Stack Development, specializing in Spring & Spring Boot, combined with frontend expertise using React.js and backend knowledge in Node.js.
+### Databases
+PostgreSQL • MySQL • MongoDB • DynamoDB
 
-Currently, I'm exploring Java Full Stack to strengthen my development skills, and diving into Blockchain technologies to build decentralized, secure, and transparent web applications.
+### Cloud & Infrastructure
+AWS • Docker • Kubernetes • Terraform • Jenkins • Linux
 
----
+### Developer Tools
+Git • GitHub • Claude Code • Cursor • GitHub Copilot
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 280px;">
-
-### 💼 Tech Stack & Skills
-
-**🔹Languages:**  
-Java • JavaScript • Python • HTML • CSS • Solidity  
-
-**🔹Web Development:**  
-React.js • Spring Boot • Node.js • Express.js • MongoDB • REST APIs • EJS
-
-**🔹Blockchain:**  
-Solidity • Ethereum • Smart Contracts • Web3.js • Metamask Integration  
-
-**🔹Tools & Platforms:**  
-Git • GitHub • Postman • VS Code • Netlify • Remix  
-
-</div>
-</div>
-
----
-
-### ⚡ **What I’m Passionate About**  
-🔹 Writing clean, efficient Java code  
-🔹 Building full-stack web apps with real-world use cases  
-🔹 Exploring decentralized technologies   
-🔹 Creating scalable and community-oriented solutions  
-
----
-
-### 🤝 **Open to Collaborations**  
-I’m always open to working on unique, impactful projects—especially those involving:  
-
-🔗 Blockchain & Web3  
-🔗 Spring Boot + React.js Stack
-🌐 Java-based Web Backends  
-🧩 Blockchain & Smart Contracts 
+### Interests
+Distributed Systems • Cloud Architecture • Platform Engineering • Databases • System Design
 
 
 ## 🌐 Socials:
