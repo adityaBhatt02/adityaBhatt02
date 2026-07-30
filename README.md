@@ -13,7 +13,7 @@ AWS • Docker • Kubernetes • Terraform • Jenkins • Linux
 Git • GitHub • Claude Code • Cursor • GitHub Copilot
 
 ### Interests
-Distributed Systems • Cloud Architecture • Platform Engineering • Databases • System Design
+Distributed Systems • Cloud Architecture • Databases • System Design
 
 
 ## 🌐 Socials:
